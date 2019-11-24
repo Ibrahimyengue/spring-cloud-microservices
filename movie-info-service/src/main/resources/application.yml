@@ -1,0 +1,19 @@
+---
+server:
+  port: 8082
+
+api:
+  key: bfa12a5475c5b70480699112e72af249
+
+spring:
+  application:
+    name: movie-info-service
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/movieDB?zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=UTC
+    username: root
+    password: Ib2019password
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true

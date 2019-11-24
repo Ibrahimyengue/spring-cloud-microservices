@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d94fdd-6099-4aa5-9527-087f3956124e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/controller/MovieInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/controller/MovieInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/models/MovieInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/models/MovieInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/service/MovieInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/service/MovieInfoServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="40" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SI8q2EFDIgoXp9tMZ43uqexXb4" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548212413544" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/discovery-server" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ibah\Desktop\Java Brains\spring-boot-microservices-workshop\movie-info-service\src\main\java\com\ibrahimyengue\movieinfoservice\exception" />
+      <recent name="C:\Users\ibah\Desktop\Java Brains\spring-boot-microservices-workshop\movie-info-service\src\test\resources" />
+      <recent name="C:\Users\ibah\Desktop\Java Brains\spring-boot-microservices-workshop\movie-info-service\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ibrahimyengue.movieinfoservice.exceptionHandler" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="io.javabrains.moviecatalogservice.services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MovieInfoServiceApplication">
+    <configuration name="MovieInfoRepositoryTest.tesGetAllMovies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibrahimyengue.movieinfoservice.repositoey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibrahimyengue.movieinfoservice.repositoey" />
+      <option name="MAIN_CLASS_NAME" value="com.ibrahimyengue.movieinfoservice.repositoey.MovieInfoRepositoryTest" />
+      <option name="METHOD_NAME" value="tesGetAllMovies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieInfoRepositoryTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibrahimyengue.movieinfoservice.repositoey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibrahimyengue.movieinfoservice.repositoey" />
+      <option name="MAIN_CLASS_NAME" value="com.ibrahimyengue.movieinfoservice.repositoey.MovieInfoRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieInfoServiceImplTest.testCreateMovieInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibrahimyengue.movieinfoservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibrahimyengue.movieinfoservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ibrahimyengue.movieinfoservice.service.MovieInfoServiceImplTest" />
+      <option name="METHOD_NAME" value="testCreateMovieInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieInfoServiceImplTest.testGetAllMoviesInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibrahimyengue.movieinfoservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibrahimyengue.movieinfoservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ibrahimyengue.movieinfoservice.service.MovieInfoServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetAllMoviesInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieInfoServiceImplTest.testUpdateMoviesInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibrahimyengue.movieinfoservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ibrahimyengue.movieinfoservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ibrahimyengue.movieinfoservice.service.MovieInfoServiceImplTest" />
+      <option name="METHOD_NAME" value="testUpdateMoviesInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieCatalogServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-catalog-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.javabrains.moviecatalogservice.MovieCatalogServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieInfoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movie-info-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ibrahimyengue.movieinfoservice.MovieInfoServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RatingsDataServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ratings-data-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.javabrains.ratingsdataservice.RatingsDataServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MovieCatalogServiceApplication" />
+      <item itemvalue="Spring Boot.MovieInfoServiceApplication" />
+      <item itemvalue="Spring Boot.RatingsDataServiceApplication" />
+      <item itemvalue="JUnit.MovieInfoServiceImplTest.testUpdateMoviesInfo" />
+      <item itemvalue="JUnit.MovieInfoServiceImplTest.testCreateMovieInfo" />
+      <item itemvalue="JUnit.MovieInfoServiceImplTest.testGetAllMoviesInfo" />
+      <item itemvalue="JUnit.MovieInfoRepositoryTest.testFindAll" />
+      <item itemvalue="JUnit.MovieInfoRepositoryTest.tesGetAllMovies" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieInfoRepositoryTest.tesGetAllMovies" />
+        <item itemvalue="JUnit.MovieInfoRepositoryTest.testFindAll" />
+        <item itemvalue="JUnit.MovieInfoServiceImplTest.testGetAllMoviesInfo" />
+        <item itemvalue="JUnit.MovieInfoServiceImplTest.testUpdateMoviesInfo" />
+        <item itemvalue="JUnit.MovieInfoServiceImplTest.testCreateMovieInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d94fdd-6099-4aa5-9527-087f3956124e" name="Default Changelist" comment="" />
+      <created>1548212355281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548212355281</updated>
+      <workItem from="1571239940968" duration="13043000" />
+      <workItem from="1571318071021" duration="90763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/movie-info-service/src/main/java/com/ibrahimyengue/movieinfoservice/controller/MovieInfoController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_microservices_workshop$MovieInfoServiceImplTest.ic" NAME="MovieInfoServiceImplTest Coverage Results" MODIFIED="1571684068335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ibrahimyengue.movieinfoservice.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/spring_boot_microservices_workshop$MovieInfoControllerTest.ic" NAME="MovieInfoControllerTest Coverage Results" MODIFIED="1571669454698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ibrahimyengue.movieinfoservice.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
